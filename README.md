@@ -23,3 +23,5 @@ Then, require the package and use it like so:
 ## License
 
 MIT
+
+[![Node CI](https://github.com/andorjamb/kalwar_null_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/andorjamb/kalwar_null_empty/actions/workflows/whatever.yml)
